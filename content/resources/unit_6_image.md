@@ -8,7 +8,11 @@ image_metadata:
   caption: Debugging code in MATLAB helps ensure that code produces the desire output.
   credit: Photograph courtesy of Yossi Farjoun. Used with permission.
   image-alt: "Screenshot of MATLAB\u2019s debugger mode and stepping into a function."
+learning_resource_types: []
+parent_title: Debugging with MATLAB
+parent_type: CourseSection
 resourcetype: Image
 title: Unit_6_image.jpg
+type: OCWImage
 uid: 7437327a-e5bf-da23-70d0-6765bd18a913
 ---

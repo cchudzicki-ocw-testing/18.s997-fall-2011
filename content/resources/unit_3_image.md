@@ -11,7 +11,11 @@ image_metadata:
   credit: Photograph courtesy of Yossi Farjoun. Used with permission.
   image-alt: Screenshot of plot commands and resultant red circle and black Lissajous
     curves.
+learning_resource_types: []
+parent_title: Basic Plotting
+parent_type: CourseSection
 resourcetype: Image
 title: Unit_3_image.jpg
+type: OCWImage
 uid: 82c0f0e7-b907-c844-65b2-3c309c5b3eee
 ---

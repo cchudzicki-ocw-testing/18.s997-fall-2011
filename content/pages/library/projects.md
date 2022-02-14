@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Library
+parent_type: CourseSection
 parent_uid: f9312176-280b-6b53-7b61-db0880b99562
 title: More Projects
+type: CourseSection
 uid: 08cfb41f-1f5e-b1e9-bb10-ba9eae5b1b45
 ---
 

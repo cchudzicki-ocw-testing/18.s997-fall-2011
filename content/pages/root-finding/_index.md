@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Root-Finding
+type: CourseSection
 uid: 33cb3bda-3dc0-895f-f5de-7bc1b91f60c2
 ---
 

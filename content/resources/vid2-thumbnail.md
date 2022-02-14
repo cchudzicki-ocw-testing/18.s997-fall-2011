@@ -7,7 +7,9 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
 resourcetype: Image
 title: vid2-thumbnail.jpg
+type: OCWImage
 uid: 85c8674d-f183-ffeb-2541-02cb6ffce0f7
 ---

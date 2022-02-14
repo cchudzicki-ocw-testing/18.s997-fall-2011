@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Vectorization and User-Defined Functions
+type: CourseSection
 uid: 18645230-e50f-3945-e34d-99f24f40ca3a
 ---
 

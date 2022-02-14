@@ -10,7 +10,11 @@ image_metadata:
   credit: Photograph courtesy of Yossi Farjoun. Used with permission.
   image-alt: Screenshot of a function definition to covert Fahrenheit to Celsius and
     the respective function call.
+learning_resource_types: []
+parent_title: Vectorization and User-Defined Functions
+parent_type: CourseSection
 resourcetype: Image
 title: Unit_4_image.jpg
+type: OCWImage
 uid: 36f255a2-ce33-6eaa-5299-d030e4970a98
 ---
