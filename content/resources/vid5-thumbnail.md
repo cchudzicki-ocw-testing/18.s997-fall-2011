@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: vid5-thumbnail.jpg
 uid: cd02a819-5824-8c08-b085-e1dcfd36e2f4

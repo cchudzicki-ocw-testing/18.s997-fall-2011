@@ -11,6 +11,7 @@ image_metadata:
   image-alt: Screenshot of a function definition to covert Fahrenheit to Celsius and
     the respective function call.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Vectorization and User-Defined Functions
 parent_type: CourseSection
 resourcetype: Image

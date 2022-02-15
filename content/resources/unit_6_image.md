@@ -9,6 +9,7 @@ image_metadata:
   credit: Photograph courtesy of Yossi Farjoun. Used with permission.
   image-alt: "Screenshot of MATLAB\u2019s debugger mode and stepping into a function."
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Debugging with MATLAB
 parent_type: CourseSection
 resourcetype: Image

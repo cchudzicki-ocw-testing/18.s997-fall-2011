@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: vid6-thumbnail.jpg
 uid: 74a4a239-2960-7c93-d62f-a7f73661bb03

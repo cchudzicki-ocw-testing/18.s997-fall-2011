@@ -12,6 +12,7 @@ image_metadata:
   image-alt: Screenshot of plot commands and resultant red circle and black Lissajous
     curves.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Basic Plotting
 parent_type: CourseSection
 resourcetype: Image

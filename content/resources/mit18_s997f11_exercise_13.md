@@ -4,6 +4,7 @@ description: This resource contains information regarding exercise 13.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-s997-introduction-to-matlab-programming-fall-2011/520a60c4fbd62ec1acb37afa457808a8_MIT18_S997F11_Exercise_13.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Exercises
 parent_type: CourseSection
 resourcetype: Document

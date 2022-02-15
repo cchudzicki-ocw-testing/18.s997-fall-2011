@@ -4,6 +4,7 @@ description: This resource contains information regarding homework 5.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-s997-introduction-to-matlab-programming-fall-2011/2eb166898fc950d93e684fa8a4ffc2b9_MIT18_S997F11_Homework_5.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Homework
 parent_type: CourseSection
 resourcetype: Document
