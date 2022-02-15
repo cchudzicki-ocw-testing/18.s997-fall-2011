@@ -5,7 +5,6 @@ parent_title: Vectorization and User-Defined Functions
 parent_type: CourseSection
 parent_uid: 18645230-e50f-3945-e34d-99f24f40ca3a
 title: Warm-up
-type: CourseSection
 uid: 81aa80d1-4f27-c72e-1dd0-74d022a27aaa
 ---
 

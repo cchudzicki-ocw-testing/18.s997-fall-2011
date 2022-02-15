@@ -5,7 +5,6 @@ parent_title: Vectorization and User-Defined Functions
 parent_type: CourseSection
 parent_uid: 18645230-e50f-3945-e34d-99f24f40ca3a
 title: Complex Numbers
-type: CourseSection
 uid: 0523856e-c9fc-9e71-66c9-d2d9aecf63e3
 ---
 

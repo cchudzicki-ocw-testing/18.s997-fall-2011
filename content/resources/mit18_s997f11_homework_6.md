@@ -8,6 +8,5 @@ parent_title: Homework
 parent_type: CourseSection
 resourcetype: Document
 title: '18.S997 Fractals and Chaos: Homework 6'
-type: OCWFile
 uid: 92629bae-b814-86ce-949e-76b4e5aa8815
 ---

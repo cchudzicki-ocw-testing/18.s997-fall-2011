@@ -15,6 +15,5 @@ parent_title: Fractals and Chaos
 parent_type: CourseSection
 resourcetype: Image
 title: Unit_5_image.JPG
-type: OCWImage
 uid: d647c10a-8ecf-3544-d49f-7aa60b9387d1
 ---

@@ -8,6 +8,5 @@ parent_title: Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '18.S997 The Basics: Exercise 2'
-type: OCWFile
 uid: 01d3a55d-eacc-1672-2d62-09afbfd9ee44
 ---

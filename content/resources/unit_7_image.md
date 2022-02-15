@@ -14,6 +14,5 @@ parent_title: Conway Game of Life
 parent_type: CourseSection
 resourcetype: Image
 title: Unit_7_image.JPG
-type: OCWImage
 uid: 8742cd78-f14e-8cd4-49c0-fbae0fc3cd36
 ---

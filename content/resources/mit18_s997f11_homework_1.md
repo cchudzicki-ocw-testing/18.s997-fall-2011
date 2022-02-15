@@ -8,6 +8,5 @@ parent_title: Homework
 parent_type: CourseSection
 resourcetype: Document
 title: '18.S997 The Basics: Homework 1'
-type: OCWFile
 uid: 3d1cd21b-18b4-b583-96db-02e24061a05e
 ---

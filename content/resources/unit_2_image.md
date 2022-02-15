@@ -15,6 +15,5 @@ parent_title: Root-Finding
 parent_type: CourseSection
 resourcetype: Image
 title: Unit_2_image.JPG
-type: OCWImage
 uid: c319a882-228d-ad05-3930-769a73e283e6
 ---

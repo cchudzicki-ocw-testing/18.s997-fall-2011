@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Library
-type: CourseSection
 uid: f9312176-280b-6b53-7b61-db0880b99562
 ---
 

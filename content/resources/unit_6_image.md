@@ -13,6 +13,5 @@ parent_title: Debugging with MATLAB
 parent_type: CourseSection
 resourcetype: Image
 title: Unit_6_image.jpg
-type: OCWImage
 uid: 7437327a-e5bf-da23-70d0-6765bd18a913
 ---

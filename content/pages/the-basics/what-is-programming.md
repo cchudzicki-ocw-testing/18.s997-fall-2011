@@ -5,7 +5,6 @@ parent_title: The Basics
 parent_type: CourseSection
 parent_uid: 71bd52f8-0211-8491-207f-722087127ab2
 title: What is Programming?
-type: CourseSection
 uid: 45835dfc-c452-9857-1439-3b5178da3666
 ---
 

@@ -8,6 +8,5 @@ parent_title: Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '18.S997 Root-Finding: Exercise 8'
-type: OCWFile
 uid: 4b40786f-fec2-5707-c844-3ed162465de1
 ---

@@ -5,7 +5,6 @@ parent_title: Fractals and Chaos
 parent_type: CourseSection
 parent_uid: 1d7068b5-ce8d-3b56-622a-e79682a1dd43
 title: 'Terminating a Loop Prematurely: Break and Continue'
-type: CourseSection
 uid: 82a5f4af-7795-cec4-2244-10e4df0f38ae
 ---
 

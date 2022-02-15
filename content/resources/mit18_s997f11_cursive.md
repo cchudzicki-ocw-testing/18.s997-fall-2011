@@ -8,6 +8,5 @@ parent_title: More Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '18.S997 Project Idea: Cursive Spline'
-type: OCWFile
 uid: ede8e624-6c6b-ed99-5cad-d7d95c89e965
 ---

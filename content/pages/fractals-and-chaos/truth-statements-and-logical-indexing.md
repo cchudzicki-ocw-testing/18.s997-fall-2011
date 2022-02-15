@@ -5,7 +5,6 @@ parent_title: Fractals and Chaos
 parent_type: CourseSection
 parent_uid: 1d7068b5-ce8d-3b56-622a-e79682a1dd43
 title: Truth Statements and Logical Indexing
-type: CourseSection
 uid: f5001e47-4d28-4c8a-d02d-71a23087e038
 ---
 

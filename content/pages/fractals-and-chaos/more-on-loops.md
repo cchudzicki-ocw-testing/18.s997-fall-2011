@@ -5,7 +5,6 @@ parent_title: Fractals and Chaos
 parent_type: CourseSection
 parent_uid: 1d7068b5-ce8d-3b56-622a-e79682a1dd43
 title: More on Loops
-type: CourseSection
 uid: e3b06d2c-1ab6-413e-6e03-3e6f881df396
 ---
 

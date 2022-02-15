@@ -5,7 +5,6 @@ parent_title: Fractals and Chaos
 parent_type: CourseSection
 parent_uid: 1d7068b5-ce8d-3b56-622a-e79682a1dd43
 title: Logistic Equation
-type: CourseSection
 uid: 892e211f-42f9-0c33-de8e-347b0fe16037
 ---
 

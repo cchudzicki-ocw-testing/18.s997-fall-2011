@@ -8,6 +8,5 @@ parent_title: More Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '18.S997 Project Idea: Autostereograms'
-type: OCWFile
 uid: ec4952de-1383-7ef4-0c5d-fba40a7d3c4a
 ---

@@ -5,7 +5,6 @@ parent_title: The Basics
 parent_type: CourseSection
 parent_uid: 71bd52f8-0211-8491-207f-722087127ab2
 title: Command Prompt and Expressions
-type: CourseSection
 uid: a49b4dad-e887-0239-3428-74b2309ddbed
 ---
 

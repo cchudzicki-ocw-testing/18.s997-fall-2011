@@ -5,7 +5,6 @@ parent_title: Root-Finding
 parent_type: CourseSection
 parent_uid: 33cb3bda-3dc0-895f-f5de-7bc1b91f60c2
 title: The Secant Method
-type: CourseSection
 uid: 1bc369b7-cf75-3e2c-e077-7b944523c88c
 ---
 

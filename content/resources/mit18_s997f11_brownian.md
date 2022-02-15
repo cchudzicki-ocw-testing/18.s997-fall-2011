@@ -8,6 +8,5 @@ parent_title: More Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '18.S997 Project Idea: Brownian Motion'
-type: OCWFile
 uid: 20a1f103-bc19-498e-6b79-46db339034c8
 ---

@@ -5,7 +5,6 @@ parent_title: The Basics
 parent_type: CourseSection
 parent_uid: 71bd52f8-0211-8491-207f-722087127ab2
 title: Lists, Vectors, and Matrices
-type: CourseSection
 uid: 7836f3ce-cf5f-4025-30dd-78bd120b701a
 ---
 

@@ -10,6 +10,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: vid1-thumbnail.jpg
-type: OCWImage
 uid: 7a451037-c907-f219-40b7-11f9f3b55c67
 ---

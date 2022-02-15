@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Basic Plotting
-type: CourseSection
 uid: 81a610a8-35a9-454d-733f-ecd98304058c
 ---
 

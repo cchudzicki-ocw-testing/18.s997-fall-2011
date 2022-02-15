@@ -8,6 +8,5 @@ parent_title: Homework
 parent_type: CourseSection
 resourcetype: Document
 title: '18.S997 Conway Game: Homework 9'
-type: OCWFile
 uid: d3829302-dd61-5896-5702-cf151f73e916
 ---

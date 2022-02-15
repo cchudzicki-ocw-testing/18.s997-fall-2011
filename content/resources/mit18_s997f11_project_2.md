@@ -8,6 +8,5 @@ parent_title: More Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 18.S997 Project 2
-type: OCWFile
 uid: 6183b5c4-ef55-229d-5833-1e997cffcc29
 ---

@@ -5,7 +5,6 @@ parent_title: The Basics
 parent_type: CourseSection
 parent_uid: 71bd52f8-0211-8491-207f-722087127ab2
 title: Variables
-type: CourseSection
 uid: a56e8e06-8426-107c-a093-c76e207364bd
 ---
 

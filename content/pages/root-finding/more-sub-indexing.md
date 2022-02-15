@@ -5,7 +5,6 @@ parent_title: Root-Finding
 parent_type: CourseSection
 parent_uid: 33cb3bda-3dc0-895f-f5de-7bc1b91f60c2
 title: More Sub-Indexing
-type: CourseSection
 uid: 812910f0-1a91-3bdd-eb41-585370bf7bef
 ---
 

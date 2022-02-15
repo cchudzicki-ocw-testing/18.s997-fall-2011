@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: The Basics
-type: CourseSection
 uid: 71bd52f8-0211-8491-207f-722087127ab2
 ---
 

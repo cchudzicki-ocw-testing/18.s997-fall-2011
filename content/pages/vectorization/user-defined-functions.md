@@ -5,7 +5,6 @@ parent_title: Vectorization and User-Defined Functions
 parent_type: CourseSection
 parent_uid: 18645230-e50f-3945-e34d-99f24f40ca3a
 title: User-Defined Functions
-type: CourseSection
 uid: 38dcb8d2-635f-7663-efc8-af4d44a9d9ea
 ---
 

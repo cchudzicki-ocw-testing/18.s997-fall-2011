@@ -5,7 +5,6 @@ parent_title: Library
 parent_type: CourseSection
 parent_uid: f9312176-280b-6b53-7b61-db0880b99562
 title: Homework
-type: CourseSection
 uid: af6bed81-c4d0-d0aa-0ddf-c05a4f082b9d
 ---
 

@@ -8,6 +8,5 @@ parent_title: Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '18.S997 Vectorization: Exercise 15'
-type: OCWFile
 uid: b044d51d-73f0-6653-a620-0d28be6e571e
 ---
