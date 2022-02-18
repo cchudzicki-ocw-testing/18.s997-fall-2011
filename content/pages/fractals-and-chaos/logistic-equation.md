@@ -25,7 +25,7 @@ _Use the "matrix-at-a-time" notation we learned in the last iteration example:_
 
 Hint 1: (Am I getting the right answer?) The result should look something like this:
 
-![Plot of many iterations of a function that branches to the right.]({{< resource_file 499d8ad9-368c-05f2-d747-7651b1f6e7ba >}})
+{{< resource 499d8ad9-368c-05f2-d747-7651b1f6e7ba >}}
 
 Graphing an iterative function.
 

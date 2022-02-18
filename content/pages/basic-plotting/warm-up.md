@@ -35,7 +35,7 @@ plot(x,y)
 {{< tdopen >}}
 
 
-![Graph of an upward-facing parabola in blue.]({{< resource_file af01e8db-e2e8-c5ff-1ba7-2e8492b491f1 >}})
+{{< resource af01e8db-e2e8-c5ff-1ba7-2e8492b491f1 >}}
 
 Graphing a simple function, y=x^2.
 
@@ -64,7 +64,7 @@ plot(x,y,'g.')
 {{< tdopen >}}
 
 
-![Graph of an upward-facing parabola with discontinuous green line markers.]({{< resource_file a5af8ec4-4234-d0ae-2903-a33a90cf1246 >}})
+{{< resource a5af8ec4-4234-d0ae-2903-a33a90cf1246 >}}
 
 Stylizing the graphs with colors and line markers.
 
@@ -94,7 +94,7 @@ plot(x,y,'r')
 {{< tdopen >}}
 
 
-![Graph of a Lissajous figure in red.]({{< resource_file 8cb777cd-aee2-a340-c543-59f60c3f387a >}})
+{{< resource 8cb777cd-aee2-a340-c543-59f60c3f387a >}}
 
 Graphing a non-function in MATLAB®.
 
