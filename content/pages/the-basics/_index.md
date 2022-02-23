@@ -16,6 +16,5 @@ In this unit, you will learn how to use the MATLAB® command prompt for performi
 The videos below demonstrate, step-by-step, how to work with MATLAB in relevance to the topics covered in this unit.
 
 - {{< resource_link 43dd1e03-1b2e-4122-67e4-4b5e6d9d7a1f "Lecture 1: Using MATLAB for the First Time" >}}
-
-{{< resource_link 9b4a2cc9-714d-7cf6-75be-79f825505e30 "Lecture 2: The Command Prompt" >}}    
-This video includes material supplementary to {{< resource_link a49b4dad-e887-0239-3428-74b2309ddbed "Command Prompt and Expressions" >}}.
+- {{< resource_link 9b4a2cc9-714d-7cf6-75be-79f825505e30 "Lecture 2: The Command Prompt" >}}     
+    This video includes material supplementary to {{< resource_link a49b4dad-e887-0239-3428-74b2309ddbed "Command Prompt and Expressions" >}}.
