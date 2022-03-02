@@ -28,4 +28,4 @@ Related Video
 
 The video below demonstrates, step-by-step, how to work with MATLAB in relation to the topics covered in this unit.
 
-*   {{< resource_link 67220f39-6760-eeb4-2a09-af32a393ec79 "Lecture 6: Debugging" >}}
+*   {{% resource_link 67220f39-6760-eeb4-2a09-af32a393ec79 "Lecture 6: Debugging" %}}

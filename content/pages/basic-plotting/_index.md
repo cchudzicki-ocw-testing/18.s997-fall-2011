@@ -16,4 +16,4 @@ Related Video
 
 The video below demonstrates, step-by-step, how to work with MATLAB in relevance to the topics covered in this unit.
 
-*   {{< resource_link c7743755-b8df-49d5-d619-7d5e70a2bad0 "Lecture 4: Basic Plotting" >}}
+*   {{% resource_link c7743755-b8df-49d5-d619-7d5e70a2bad0 "Lecture 4: Basic Plotting" %}}

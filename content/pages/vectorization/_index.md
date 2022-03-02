@@ -22,7 +22,7 @@ Related Videos
 
 The videos below demonstrate, step-by-step, how to work with MATLAB in relevance to the topics covered in this unit.
 
-*   {{< resource_link c00f640c-8701-c641-0648-f92bfa3cd13d "Lecture 5: Scripts and Functions" >}}  
-    This video includes material supplementary to {{< resource_link 9feb7d76-e06d-418f-a379-2948357f1bec "Scope" >}}.
-*   {{< resource_link 67220f39-6760-eeb4-2a09-af32a393ec79 "Lecture 6: Debugging" >}}  
-    This video includes material supplementary to {{< resource_link 9feb7d76-e06d-418f-a379-2948357f1bec "Scope" >}}, Homework 3.
+*   {{% resource_link c00f640c-8701-c641-0648-f92bfa3cd13d "Lecture 5: Scripts and Functions" %}}  
+    This video includes material supplementary to {{% resource_link 9feb7d76-e06d-418f-a379-2948357f1bec "Scope" %}}.
+*   {{% resource_link 67220f39-6760-eeb4-2a09-af32a393ec79 "Lecture 6: Debugging" %}}  
+    This video includes material supplementary to {{% resource_link 9feb7d76-e06d-418f-a379-2948357f1bec "Scope" %}}, Homework 3.

@@ -20,7 +20,7 @@ Related Videos
 
 The videos below demonstrate, step-by-step, how to work with MATLAB in relation to the topics covered in this unit.
 
-*   {{< resource_link 01e581a8-1cba-3b53-0d29-7eb44635a452 "Lecture 3: Using Files" >}}  
-    This video includes material supplementary to {{< resource_link 1bc369b7-cf75-3e2c-e077-7b944523c88c "The Secant Method" >}}.
-*   {{< resource_link 67220f39-6760-eeb4-2a09-af32a393ec79 "Lecture 6: Debugging" >}}  
-    This video includes material supplementary to {{< resource_link 1bc369b7-cf75-3e2c-e077-7b944523c88c "The Secant Method" >}}.
+*   {{% resource_link 01e581a8-1cba-3b53-0d29-7eb44635a452 "Lecture 3: Using Files" %}}  
+    This video includes material supplementary to {{% resource_link 1bc369b7-cf75-3e2c-e077-7b944523c88c "The Secant Method" %}}.
+*   {{% resource_link 67220f39-6760-eeb4-2a09-af32a393ec79 "Lecture 6: Debugging" %}}  
+    This video includes material supplementary to {{% resource_link 1bc369b7-cf75-3e2c-e077-7b944523c88c "The Secant Method" %}}.
