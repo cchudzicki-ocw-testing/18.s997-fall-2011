@@ -8,6 +8,8 @@ parent_type: CourseSection
 parent_uid: 1d7068b5-ce8d-3b56-622a-e79682a1dd43
 title: More on Loops
 uid: e3b06d2c-1ab6-413e-6e03-3e6f881df396
+video_metadata:
+  youtube_id: null
 ---
 The for loop is a very useful tool for doing things over and over again for a certain number of times already known _in advance_. There are two possibilities that we would like to consider:
 

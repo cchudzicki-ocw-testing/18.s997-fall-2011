@@ -8,6 +8,8 @@ parent_type: CourseSection
 parent_uid: 81a610a8-35a9-454d-733f-ecd98304058c
 title: Basins of Attraction
 uid: e97ad6fd-f5f1-abbc-81c0-a3cefd271812
+video_metadata:
+  youtube_id: null
 ---
 Back to Newton's method: It turns out that the end result (the point to which the method converges, if any) is strongly dependent on the initial guess. Furthermore, the dependence on the first guess can be rather surprising. The set of points that converge to a given root is called the _basin of attraction_ of that root (for the iteration under discussion). I would like us to visualize the basins of attraction by coloring each starting point with a color that corresponds to the root it converges to. The different basins will thus be given different colors.
 
@@ -116,6 +118,6 @@ Hint 6.
 What is the solution supposed to look like? My result can be seen in Fig. 1. Increasing the number of iterations should make the black regions (places that have not converged) smaller.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-![Colorful graphic with symmetry around a center point.](/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/basic-plotting/basins-of-attraction/18-S997f11_unit3_img4.jpg)
+{{< resource 072d4e9f-65ad-773a-5386-2ee2572818f7 "Colorful graphic with symmetry around a center point." >}}
 
 Figure 1. Basin of attraction for \\(f(\[x,y\]^t)=(x^3-y,y^3-x)^t\\).

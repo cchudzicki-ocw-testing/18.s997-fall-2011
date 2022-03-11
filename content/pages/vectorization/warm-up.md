@@ -8,6 +8,8 @@ parent_type: CourseSection
 parent_uid: 18645230-e50f-3945-e34d-99f24f40ca3a
 title: Warm-up
 uid: 81aa80d1-4f27-c72e-1dd0-74d022a27aaa
+video_metadata:
+  youtube_id: null
 ---
 - Code an _arbitrary precision_ (integer) addition code. The start of the code should be where the "numbers" are defined. For example:   
       
