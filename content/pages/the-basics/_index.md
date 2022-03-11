@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: The Basics
 uid: 71bd52f8-0211-8491-207f-722087127ab2
+video_metadata:
+  youtube_id: null
 ---
 {{< resource 0994bdb9-43a6-fe32-a26e-8ce8d392a5cb >}}
 
