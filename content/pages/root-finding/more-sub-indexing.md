@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 33cb3bda-3dc0-895f-f5de-7bc1b91f60c2
 title: More Sub-Indexing
 uid: 812910f0-1a91-3bdd-eb41-585370bf7bef
+video_metadata:
+  youtube_id: null
 ---
 
 We have seen how one can access a subset of a list by providing a list of desired positions:

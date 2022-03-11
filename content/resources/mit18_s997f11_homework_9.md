@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.S997 Conway Game: Homework 9'
 uid: d3829302-dd61-5896-5702-cf151f73e916
+video_metadata:
+  youtube_id: null
 ---

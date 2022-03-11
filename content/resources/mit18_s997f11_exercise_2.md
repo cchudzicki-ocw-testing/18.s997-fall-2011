@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.S997 The Basics: Exercise 2'
 uid: 01d3a55d-eacc-1672-2d62-09afbfd9ee44
+video_metadata:
+  youtube_id: null
 ---

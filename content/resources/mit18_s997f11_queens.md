@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.S997 Project Idea: Queens on a Chessboard'
 uid: ec7538f5-ad89-7262-92c0-ac23269a82e6
+video_metadata:
+  youtube_id: null
 ---

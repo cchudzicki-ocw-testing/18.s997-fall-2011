@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.S997 Project Idea: Brownian Motion'
 uid: 20a1f103-bc19-498e-6b79-46db339034c8
+video_metadata:
+  youtube_id: null
 ---

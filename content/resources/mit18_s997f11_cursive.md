@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.S997 Project Idea: Cursive Spline'
 uid: ede8e624-6c6b-ed99-5cad-d7d95c89e965
+video_metadata:
+  youtube_id: null
 ---

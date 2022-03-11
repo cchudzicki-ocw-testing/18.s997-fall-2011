@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: Unit_6_image.jpg
 uid: 7437327a-e5bf-da23-70d0-6765bd18a913
+video_metadata:
+  youtube_id: null
 ---

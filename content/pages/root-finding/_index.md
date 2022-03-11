@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Root-Finding
 uid: 33cb3bda-3dc0-895f-f5de-7bc1b91f60c2
+video_metadata:
+  youtube_id: null
 ---
 
 {{< resource c319a882-228d-ad05-3930-769a73e283e6 >}}  

@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.S997 Root-Finding: Exercise 6'
 uid: 75f6e744-c2a4-2efa-7c7e-d55512f2a1e8
+video_metadata:
+  youtube_id: null
 ---

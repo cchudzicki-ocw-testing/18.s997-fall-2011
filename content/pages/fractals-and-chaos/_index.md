@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Fractals and Chaos
 uid: 1d7068b5-ce8d-3b56-622a-e79682a1dd43
+video_metadata:
+  youtube_id: null
 ---
 
 {{< resource d647c10a-8ecf-3544-d49f-7aa60b9387d1 >}}  

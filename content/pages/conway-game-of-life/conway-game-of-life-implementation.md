@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 71d3260e-1e77-4a0e-ad3b-6b3411cacf8c
 title: Conway Game of Life Implementation
 uid: 1d99d88a-59e7-ffd3-c082-67cb9d37d780
+video_metadata:
+  youtube_id: null
 ---
 
 This project implements the Conway Game of Life. Idea: The world consists of a 2D grid. Each cell in the grid can be "alive" or "dead". At each step the cells are updated according to the following rules:

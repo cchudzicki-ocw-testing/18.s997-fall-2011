@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 1d7068b5-ce8d-3b56-622a-e79682a1dd43
 title: Logistic Equation
 uid: 892e211f-42f9-0c33-de8e-347b0fe16037
+video_metadata:
+  youtube_id: null
 ---
 
 **Homework 4.** _For \\(r\\) varying between 0 and 4, find out the possible "limit cycles"{{< sup "§" >}} of the iterative map:_

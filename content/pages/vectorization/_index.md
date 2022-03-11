@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Vectorization and User-Defined Functions
 uid: 18645230-e50f-3945-e34d-99f24f40ca3a
+video_metadata:
+  youtube_id: null
 ---
 
 {{< resource 36f255a2-ce33-6eaa-5299-d030e4970a98 >}}  

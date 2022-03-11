@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.S997 Fractals and Chaos: Homework 4'
 uid: 1f40d753-15cf-ae76-6c0a-2e6d450b62db
+video_metadata:
+  youtube_id: null
 ---

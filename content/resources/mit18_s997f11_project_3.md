@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 18.S997 Project 3
 uid: 96280072-9194-ff0b-9b61-fa78ce4f362c
+video_metadata:
+  youtube_id: null
 ---

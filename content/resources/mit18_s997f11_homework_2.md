@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.S997 Root-Finding: Homework 2'
 uid: 71b20066-8385-6e95-cbe3-bf554db91854
+video_metadata:
+  youtube_id: null
 ---

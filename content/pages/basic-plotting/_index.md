@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Basic Plotting
 uid: 81a610a8-35a9-454d-733f-ecd98304058c
+video_metadata:
+  youtube_id: null
 ---
 
 {{< resource 82c0f0e7-b907-c844-65b2-3c309c5b3eee >}}  

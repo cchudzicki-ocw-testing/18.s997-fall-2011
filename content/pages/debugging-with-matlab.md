@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Debugging with MATLAB
 uid: 376c3d97-71c7-c91d-107d-f6d7f5c02e64
+video_metadata:
+  youtube_id: null
 ---
 
 {{< resource 7437327a-e5bf-da23-70d0-6765bd18a913 >}}

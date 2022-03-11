@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.S997 Basic Plotting: Exercise 11'
 uid: 857af918-a604-c276-277d-c1a27ef1718c
+video_metadata:
+  youtube_id: null
 ---

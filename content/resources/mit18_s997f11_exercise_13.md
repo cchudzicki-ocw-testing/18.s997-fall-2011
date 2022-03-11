@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.S997 Vectorization: Exercise 13'
 uid: 520a60c4-fbd6-2ec1-acb3-7afa457808a8
+video_metadata:
+  youtube_id: null
 ---

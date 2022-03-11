@@ -12,4 +12,6 @@ ocw_type: OCWImage
 resourcetype: Image
 title: vid4-thumbnail.jpg
 uid: c4e7bc37-4d77-df03-7159-7e682e94c2a2
+video_metadata:
+  youtube_id: null
 ---

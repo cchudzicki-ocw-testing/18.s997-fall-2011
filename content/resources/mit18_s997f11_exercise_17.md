@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.S997 Fractals and Chaos: Exercise 17'
 uid: 013ea582-8958-24c8-61df-cd7bf1e6526e
+video_metadata:
+  youtube_id: null
 ---

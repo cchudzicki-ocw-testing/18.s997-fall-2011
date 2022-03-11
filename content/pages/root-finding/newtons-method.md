@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 33cb3bda-3dc0-895f-f5de-7bc1b91f60c2
 title: Newton's Method
 uid: b66efdff-770f-0bea-25c3-7377318de9c0
+video_metadata:
+  youtube_id: null
 ---
 
 \\(\\newcommand{\\sech}{\\mathop{\\rm sech}\\nolimits} \\newcommand{\\csch}{\\mathop{\\rm csch}\\nolimits}\\)

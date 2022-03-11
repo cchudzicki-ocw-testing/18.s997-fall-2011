@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 81a610a8-35a9-454d-733f-ecd98304058c
 title: Warm-up
 uid: cf798304-e742-31c2-5fa3-24cb0ee3ab0e
+video_metadata:
+  youtube_id: null
 ---
 
 *   What do `1:10`, `1:2:10` `100:-25:0` do? Think, then check.

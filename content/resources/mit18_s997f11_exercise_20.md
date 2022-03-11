@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 18.S997 Conway Game Exercise 20
 uid: ad1927f1-f354-712e-8749-e21e935a3ff5
+video_metadata:
+  youtube_id: null
 ---

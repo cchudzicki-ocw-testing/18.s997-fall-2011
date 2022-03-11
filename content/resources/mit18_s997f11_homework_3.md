@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.S997 Vectorization: Homework 3'
 uid: c39c159e-3b9b-5527-f5f9-4fbb22ef16b8
+video_metadata:
+  youtube_id: null
 ---
