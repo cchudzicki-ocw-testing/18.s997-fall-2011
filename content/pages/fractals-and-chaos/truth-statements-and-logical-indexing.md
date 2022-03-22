@@ -23,7 +23,7 @@ To decide on the color of a particular point on the screen \\((x,y)\\), we defin
 
 The result should look like this:
 
-{{< resource 4f24071a-c13e-d8e2-3806-e0e570d24a44 "Graph of 100 iterations of the Mandelbrot fractal in gray." >}}
+{{< resource "4f24071a-c13e-d8e2-3806-e0e570d24a44" >}}
 
 Graphing the Mandelbrot set.
 
@@ -192,7 +192,7 @@ axis equal
 
 _We only need to plot once, after all the iterations have happened. Notice how much faster this is than the nested loops from before. Your result should look like this:_
 
-{{< resource 1522363c-dcb7-8685-7ea9-0f6e6ff6ce9c "Graph of 100 iterations of the Mandelbrot fractal." >}}
+{{< resource "1522363c-dcb7-8685-7ea9-0f6e6ff6ce9c" >}}
 
 Graphing the Mandelbrot set with logical indexing.
 

@@ -118,6 +118,6 @@ Hint 6.
 What is the solution supposed to look like? My result can be seen in Fig. 1. Increasing the number of iterations should make the black regions (places that have not converged) smaller.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< resource 072d4e9f-65ad-773a-5386-2ee2572818f7 "Colorful graphic with symmetry around a center point." >}}
+{{< resource "072d4e9f-65ad-773a-5386-2ee2572818f7" >}}
 
 Figure 1. Basin of attraction for \\(f(\[x,y\]^t)=(x^3-y,y^3-x)^t\\).
