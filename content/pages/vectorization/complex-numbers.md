@@ -17,7 +17,7 @@ Complex numbers \\(x+iy\\) can be dealt with "natively" in MATLAB®. This means 
 
 Here's the basin of attraction of the roots of \\(z^5+1\\):
 
-{{< resource 88a5c2d3-65a1-82b0-f58c-c34f766072e4 "A colorful 1000x1000 plot of basin of attraction with radial symmetry." >}}
+{{< resource "88a5c2d3-65a1-82b0-f58c-c34f766072e4" >}}
 
 A plot of the basin of attraction with complex roots.
 

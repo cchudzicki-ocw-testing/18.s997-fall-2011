@@ -122,7 +122,7 @@ ans =
 
 The last line makes the following plot (except for the green line, which is \\(y=2x\\)):
 
-{{< resource a7cbcafa-652d-e3ce-7ee1-0f5edaf5b6bb "Graph of a line and roots to verify second-order convergence of Newton's method." >}}
+{{< resource "a7cbcafa-652d-e3ce-7ee1-0f5edaf5b6bb" >}}
 
 MATLAB can calculate roots through Newton's method, and verification of convergence is graphed.
 
