@@ -1,9 +1,16 @@
 ---
 content_type: resource
 description: ''
+draft: false
 file: null
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
 - Videos
+license: https://creativecommons.org/licenses/by-nc/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -15,9 +22,8 @@ resourcetype: Video
 title: 'Lecture 2: The Command Prompt'
 uid: 9b4a2cc9-714d-7cf6-75be-79f825505e30
 video_files:
-  archive_url: http://www.archive.org/download/MIT18.S997F11/MIT18_S997F11_lec02_300k.mp4
   video_captions_file: /courses/18-s997-introduction-to-matlab-programming-fall-2011/c0979bc1e50b5de3a5fb996b32bd441b_lWSsUH_MQM4.vtt
-  video_thumbnail_file: null
+  video_thumbnail_file: https://img.youtube.com/vi/lWSsUH_MQM4/default.jpg
   video_transcript_file: /courses/18-s997-introduction-to-matlab-programming-fall-2011/75e6cb3a8e09dd0f7435638ed377ebf7_lWSsUH_MQM4.pdf
 video_metadata:
   youtube_id: lWSsUH_MQM4
