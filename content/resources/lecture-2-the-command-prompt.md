@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 draft: false
+end_time: ''
 file: null
 file_type: ''
 image_metadata:
@@ -19,6 +20,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: The Command Prompt'
 uid: 9b4a2cc9-714d-7cf6-75be-79f825505e30
 video_files:

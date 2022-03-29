@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 draft: false
+end_time: ''
 file: null
 file_type: ''
 image_metadata:
@@ -19,6 +20,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Using MATLAB for the First Time'
 uid: 43dd1e03-1b2e-4122-67e4-4b5e6d9d7a1f
 video_files:

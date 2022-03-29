@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 draft: false
+end_time: ''
 file: null
 file_type: ''
 image_metadata:
@@ -19,6 +20,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Using Files'
 uid: 01e581a8-1cba-3b53-0d29-7eb44635a452
 video_files:

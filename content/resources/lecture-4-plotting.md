@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 draft: false
+end_time: ''
 file: null
 file_type: ''
 image_metadata:
@@ -19,6 +20,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Plotting'
 uid: c7743755-b8df-49d5-d619-7d5e70a2bad0
 video_files:

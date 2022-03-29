@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 draft: false
+end_time: ''
 file: null
 file_type: ''
 image_metadata:
@@ -19,6 +20,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Debugging'
 uid: 67220f39-6760-eeb4-2a09-af32a393ec79
 video_files:
