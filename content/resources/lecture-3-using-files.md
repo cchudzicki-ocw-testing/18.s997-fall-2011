@@ -34,3 +34,4 @@ video_metadata:
 **Description:** This video lecture demonstrates how to create code in the editor and save it in a file to be used as a function or script. Examples include a script for the Fibonacci sequence and a function that converts Fahrenheit to Celsius.
 
 **Instructor:** Yossi Farjoun
+

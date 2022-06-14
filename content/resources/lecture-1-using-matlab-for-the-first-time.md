@@ -34,3 +34,4 @@ video_metadata:
 **Description:** This video lecture introduces the MATLAB interface, how to carry out basic mathematical operations involving both numbers and variables, and how to use the help files to learn more about MATLAB's built-in functions.
 
 **Instructor:** Yossi Farjoun
+

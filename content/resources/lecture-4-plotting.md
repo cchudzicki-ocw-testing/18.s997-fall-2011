@@ -34,3 +34,4 @@ video_metadata:
 **Description:** This video lecture demonstrates how to manipulate the style, axes, and position of plots in MATLAB and how to create multiple subplots.
 
 **Instructor:** Yossi Farjoun
+

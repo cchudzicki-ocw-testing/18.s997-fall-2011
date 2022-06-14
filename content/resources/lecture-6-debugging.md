@@ -34,3 +34,4 @@ video_metadata:
 **Description:** This video demonstrates how to use MATLAB's built-in debugger to track variables, values, and function returns.
 
 **Instructor:** Yossi Farjoun
+

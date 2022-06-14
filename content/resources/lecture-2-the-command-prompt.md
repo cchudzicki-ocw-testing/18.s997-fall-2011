@@ -34,3 +34,4 @@ video_metadata:
 **Description:** This video lecture continues to explore MATLAB's command prompt and function library, as well as provides an introduction to plotting and creating for and while loops.
 
 **Instructor:** Yossi Farjoun
+
