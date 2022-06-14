@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This video lecture demonstrates the concept of scope by example of a recursive function that produces the Fibonacci sequence.
 
 **Instructor:** Yossi Farjoun
+

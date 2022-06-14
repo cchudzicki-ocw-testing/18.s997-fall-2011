@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding exercise 14.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-s997-introduction-to-matlab-programming-fall-2011/28a1a1cd267d3d02016222bac6c13cf0_MIT18_S997F11_Exercise_14.pdf
+file: /courses/18-s997-introduction-to-matlab-programming-fall-2011/28a1a1cd267d3d02016222bac6c13cf0_MIT18_S997F11_Exercise_14.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -14,3 +14,4 @@ uid: 28a1a1cd-267d-3d02-0162-22bac6c13cf0
 video_metadata:
   youtube_id: null
 ---
+This resource contains information regarding exercise 14.

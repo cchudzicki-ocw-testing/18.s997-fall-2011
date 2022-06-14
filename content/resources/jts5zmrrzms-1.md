@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-s997-introduction-to-matlab-programming-fall-2011/407532624c03d9e9dea4dbb8f9936eeb_jTS5ZmrrzMs.pdf
+file: /courses/18-s997-introduction-to-matlab-programming-fall-2011/407532624c03d9e9dea4dbb8f9936eeb_jTS5ZmrrzMs.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

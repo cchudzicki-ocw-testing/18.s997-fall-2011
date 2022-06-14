@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding exercise 5.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-s997-introduction-to-matlab-programming-fall-2011/aca5968456fb12c1b84fc996f0ba81e1_MIT18_S997F11_Exercise_5.pdf
+file: /courses/18-s997-introduction-to-matlab-programming-fall-2011/aca5968456fb12c1b84fc996f0ba81e1_MIT18_S997F11_Exercise_5.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -14,3 +14,4 @@ uid: aca59684-56fb-12c1-b84f-c996f0ba81e1
 video_metadata:
   youtube_id: null
 ---
+This resource contains information regarding exercise 5.

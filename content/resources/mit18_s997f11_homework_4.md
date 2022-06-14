@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding homework 4.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-s997-introduction-to-matlab-programming-fall-2011/1f40d75315cfae766c0a2e6d450b62db_MIT18_S997F11_Homework_4.pdf
+file: /courses/18-s997-introduction-to-matlab-programming-fall-2011/1f40d75315cfae766c0a2e6d450b62db_MIT18_S997F11_Homework_4.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -14,3 +14,4 @@ uid: 1f40d753-15cf-ae76-6c0a-2e6d450b62db
 video_metadata:
   youtube_id: null
 ---
+This resource contains information regarding homework 4.
