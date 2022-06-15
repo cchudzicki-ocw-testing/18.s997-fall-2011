@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains short exercises for content review from the past lectures
+  and for basic techniques for making plots.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Basic Plotting

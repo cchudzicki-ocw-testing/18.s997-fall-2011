@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section includes six video lectures on MATLAB programming, presented
+  as step-by-step tutorials that are intended to supplement the lecture notes in the
+  course.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection

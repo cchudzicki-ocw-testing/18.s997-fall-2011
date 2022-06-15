@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page includes lectures notes and two homework assignments on how
+  to terminate and manipulate loops using MATLAB commands.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Fractals and Chaos

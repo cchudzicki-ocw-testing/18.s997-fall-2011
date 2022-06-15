@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes a content overview for a unit on manipulating MATLAB
+  loops and implementing logical indexing.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Fractals and Chaos

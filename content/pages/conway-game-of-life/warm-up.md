@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains short exercises for content review from past lectures
+  as well as practice with matrix manipulation.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Conway Game of Life

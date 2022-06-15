@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page includes lecture notes and three exercises that introduce the
+  implementation of Newton's Method.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Root-Finding

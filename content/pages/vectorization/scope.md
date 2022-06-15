@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page includes lecture notes, two exercises, and a homework assignment
+  on using functions within their define scope.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Vectorization and User-Defined Functions

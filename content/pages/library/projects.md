@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides additional prompts for coding projects beyond those
+  found in the lecture materials.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Library

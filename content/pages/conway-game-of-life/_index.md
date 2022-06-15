@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an introduction to a unit on programming an implementation
+  of the Conway Game of Life.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Conway Game of Life

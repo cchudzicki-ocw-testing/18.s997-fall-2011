@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes a content overview for a unit on vectorization,
+  using complex numbers, and how to create a user-defined function in MATLAB.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Vectorization and User-Defined Functions

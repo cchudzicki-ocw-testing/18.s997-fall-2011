@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page includes homework assignments and exercises that culminate
+  in a coding project to fully implement the Conway Game of Life using MATLAB.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Conway Game of Life
