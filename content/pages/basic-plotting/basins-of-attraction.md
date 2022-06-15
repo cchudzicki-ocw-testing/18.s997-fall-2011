@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page includes lectures notes, an exercise, and a project prompt
+  on plotting basins of attraction.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page includes lectures notes, an exercise, and a homework assignment
+  on constructing loops.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

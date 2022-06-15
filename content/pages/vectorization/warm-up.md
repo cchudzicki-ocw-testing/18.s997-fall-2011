@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains short exercises for content review from past lectures
+  and an introduction to complex numbers in MATLAB.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

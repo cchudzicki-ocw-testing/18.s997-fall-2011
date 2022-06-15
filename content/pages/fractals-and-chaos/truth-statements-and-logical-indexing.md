@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page includes lectures notes, three exercises, and a homework assignment
+  on truth statements and using logical indexing to construct a plot of the Mandlebrot
+  fractal.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
