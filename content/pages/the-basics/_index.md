@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes a content overview of the fundamentals of MATLAB.
 learning_resource_types: []
 ocw_type: CourseSection
 title: The Basics

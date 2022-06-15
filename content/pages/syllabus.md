@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, required software, video lectures, grading, and
+  tips on using the course site.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
