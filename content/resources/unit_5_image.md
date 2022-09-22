@@ -11,6 +11,7 @@ image_metadata:
   credit: Photograph courtesy of Yossi Farjoun. Used with permission.
   image-alt: Graph of 100 iterations of the Mandelbrot fractal.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Fractals and Chaos
 parent_type: CourseSection

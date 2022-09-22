@@ -10,6 +10,7 @@ image_metadata:
   credit: Photograph courtesy of djspyhunter on Flickr.
   image-alt: "Photograph of a state in Conway\u2019s Game of Life after multiple iterations."
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Conway Game of Life
 parent_type: CourseSection

@@ -10,6 +10,7 @@ image_metadata:
   image-alt: "Screenshot of MATLAB\u2019s command prompt and a series of for basic\
     \ mathematical operations."
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: The Basics
 parent_type: CourseSection
